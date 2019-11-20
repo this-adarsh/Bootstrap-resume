@@ -1,4 +1,6 @@
 {
+  "short_name": "Adarsh CV",
+  "name": "Adarsh CV",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
