@@ -3,6 +3,6 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
-  "scope": "https://this-adarsh.github.io/",
-  "start_url": "https://this-adarsh.github.io/"
+  "scope": ".",
+  "start_url": "."
 }
