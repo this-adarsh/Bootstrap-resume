@@ -10,7 +10,8 @@ export default function Footer() {
                 </a>
             </div>
             <div className="text-center p-3">
-                🄯 {new Date().getFullYear()} <a href="https://github.com/this-adarsh/this-adarsh.github.io" className="text-white">Copyleft: Adarsh Shukla</a>
+                🄯 {new Date().getFullYear()} <a href="https://github.com/this-adarsh/this-adarsh.github.io" className="text-white">
+                    Copyleft: <span className="text-info">Adarsh Shukla</span></a>
             </div>
         </footer>
     );
